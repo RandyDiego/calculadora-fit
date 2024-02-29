@@ -1,0 +1,58 @@
+body{
+    background: url(pexels-victor-freitas-841125.jpg) no-repeat center;
+    background-size: cover;
+}
+
+p{
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+ 
+div{
+    display: flex;
+    justify-content: center;
+}
+
+form{
+    border: 4px solid;
+    border-radius: 20px;
+    padding: 15px;
+    width: 400px;
+    background: #00294b;
+    background: -webkit-linear-gradient(to right, #00294b, #297EA6); 
+    background: linear-gradient(to right, #00294b, #297EA6);
+}
+
+.msj{
+    color: white;
+    font-size: 18px;
+}
+
+.btn {
+        display: inline-block;
+        font-size: 18px;
+        padding: 5px 15px;
+        border: 4px solid #020202;
+        border-radius: 12px;
+        color:#ffffff;
+        margin: 8px;
+        text-decoration: none;
+        background: #00294b;}
+
+.btn:hover { background: none; }
+
+.btn1 {
+    display: inline-block;
+    font-size: 17px;
+    padding: 5px 15px;
+    border: 4px solid #020202;
+    border-radius: 12px;
+    color:#ffffff;
+    text-decoration: none;
+    background: rgb(13, 150, 127);}
+
+.btn1:hover { background: none; }
